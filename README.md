@@ -5,8 +5,8 @@
 ## Statistics
 
 <div>
-<a href="https://github.com/joaomoura05">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomoura05&layout=compact&langs_count=7&theme=dark" width="350" height="350"/>
+<a href="https://github.com/jp-mouraa">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp-mouraa&layout=compact&langs_count=7&theme=dark" width="350" height="350"/>
 </div>
 
 ## Languages, Tools and Technology

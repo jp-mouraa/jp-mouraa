@@ -1,7 +1,13 @@
 ## Hi there 👋
 
-- Bachelor's Degree in Data Science and AI
-- Master's Student in Computer Science
+I'm João Pedro de Moura. Bachelor's Degree in Data Science and Artificial Intelligence and currently Master's student in Computer Science.
+
+My research interests include:
+
+📥 Data Collection: I enjoy designing pipelines for collecting and preparing real-world data for ml tasks.
+🧠 Natural Language Processing (NLP): Working on extracting insights from unstructured text and building intelligent language-based systems.
+👁️ Computer Vision: I am passionate about applying computer vision algorithms, from raw image processing to object detection/classification.
+🎮 Reinforcement Learning: I'm interested in agents that learn through interaction and decision-making over time.
 
 <div>
 <a href="https://github.com/jp-mouraa">

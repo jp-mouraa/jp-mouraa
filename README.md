@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🎲 Bachelor of Data Science and Artificial Intelligence
+- Bachelor's Degree in Data Science and AI
+- Master's Student in Computer Science
 
 ## Statistics
 

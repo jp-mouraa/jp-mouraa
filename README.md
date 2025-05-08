@@ -3,8 +3,6 @@
 - Bachelor's Degree in Data Science and AI
 - Master's Student in Computer Science
 
-## Programming Language Statistics
-
 <div>
 <a href="https://github.com/jp-mouraa">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp-mouraa&layout=compact&langs_count=7&theme=dark" width="350" height="350"/>

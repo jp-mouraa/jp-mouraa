@@ -4,8 +4,6 @@ BSc degree in Data Science and Artificial Intelligence
 and currently MSc student in Computer Science with a focus on Computer Vision.
 
 My research interests include:
-
-- 📥 **Data Collection**
 - 👁️ **Computer Vision**
 - 🤖 **Reinforcement Learning**
 - 🎮 **Games Development**

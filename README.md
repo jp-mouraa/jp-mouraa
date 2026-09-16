@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-BSc degree in Data Science and Artificial Intelligence 
-and currently MSc student in Computer Science with a focus on Computer Vision.
+BSc in Data Science and Artificial Intelligence, MSc in Computer Science, and currently a PhD student in Computer Science.
 
 My research interests include:
 - 👁️ **Computer Vision**

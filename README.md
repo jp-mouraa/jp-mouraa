@@ -3,10 +3,10 @@
 - *MSc in Computer Science*
 - *PhD student in Computer Science*
 
-My main research interests include:
-- 👁️ **Computer Vision**
-- 🤖 **Reinforcement Learning**
-- 🎮 **Games Development**
+### My main research interests include:
+- 👁️ *Computer Vision*
+- 🤖 *Reinforcement Learning*
+- 🎮 *Games Development*
 
 ## Contacts:
 <div>

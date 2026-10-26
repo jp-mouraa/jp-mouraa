@@ -1,9 +1,9 @@
 ## Hiii 👋
-I am João, a data scientist and AI researcher!
+I am João, a Data Scientist and AI researcher!
 
-- *BSc in Data Science and Artificial Intelligence*
-- *MSc in Computer Science*
-- *PhD student in Computer Science*
+- *BSc* in **Data Science and Artificial Intelligence**
+- *MSc* in **Computer Science**
+- *PhD* student in **Computer Science**
 
 My main research interests include:
 - 👁️ **Computer Vision**

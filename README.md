@@ -10,7 +10,7 @@ My main research interests include:
 - 🤖 **Reinforcement Learning**
 - 🎮 **Game Development**
 
-## Socials & Contact
+### Socials & Contact
 If you wanna talk about data, AI, ML, or anything related, feel free to send me a message! :)
 <div>
   <a href="https://jp-moura.vercel.app/" target="_blank">
